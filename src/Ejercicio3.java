@@ -3,7 +3,7 @@ import java.util.Scanner;
 public class Ejercicio3 {
     public static void main(String[] args) {
         Scanner lector = new Scanner(System.in);
-        int base =0;
+        int base = 0;
 
         do {
             System.out.println("Introduce la base(2, 8, 16):");
